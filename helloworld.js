@@ -10,8 +10,8 @@
     <div id="temp"></div>
   </p>
   <script type="text/javascript">
-    let untrusted_ajax_res = document.write(location.replace("https://www.w3schools.com"));
-    document.getElementById("temp").innerHTML=untrusted_ajax_res;
+    let untrusted_ajax_res = location.replace("https://www.w3schools.com");
+    document.getElementById("temp").innerHTML = untrusted_ajax_res;
   </script>
 </body>
 </html>
