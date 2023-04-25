@@ -1,7 +1,7 @@
 {
   "name": "github-dx-demo",
   "version": "1.0.2",
-  "description": "Demo repository highlighting an integrated developer experience with GitHub ecosystem tools.",
+  "description": "Demo repository highlighting an integrated developer experience with GitHub ecosystem tools .",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js",
